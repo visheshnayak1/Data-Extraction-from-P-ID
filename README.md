@@ -69,11 +69,15 @@ The model's performance is evaluated using:
 
 The model has been trained on a custom dataset of P&ID diagrams with annotated symbols. The dataset includes various symbols commonly found in process engineering diagrams.
 
+
+## Output for work
+![detectecd image](https://github.com/user-attachments/assets/ccfc79bc-77e5-4596-9182-1223977e1a46)
+
+
 ## Future Work
 
 - Increase training epochs to 100 as recommended for improved accuracy
 - Implement post-processing to extract structured information from detected symbols
-- Develop a GUI interface for easier interaction with the model
 - Expand the dataset to include more symbol variations
 
 ## Contributing
